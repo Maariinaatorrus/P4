@@ -1,3 +1,3 @@
 # P4
 Web Gráfica Publicitaria
-https://maariinaatorrus.guithub.io/P4/
+https://maariinaatorrus.github.io/P4/
